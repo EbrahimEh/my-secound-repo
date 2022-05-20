@@ -5,3 +5,10 @@ h1{
     font-size: 20px;
     color: aqua;
 }
+.hlw{
+    font-family: cursive;
+
+}
+.hlw h1{
+    color: red;
+}
